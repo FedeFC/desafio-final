@@ -1,0 +1,48 @@
+h1,p {
+    background-color: aqua;
+    /* margin-top: 290px; */
+    border: solid 3px black;
+    padding: 50px;
+}
+strong{
+    background-color: azure;
+}
+
+div{
+    /* ancho de la caja */
+    width: 400px; /*ancho*/
+    height: 300px;/*alto*/
+    background-color: blueviolet;
+    /* overflow: hidden; corta el excedente  */
+    /* overflow: auto; pone un scroll donde sea necesario  */
+    /* overflow: scroll; pone un scroll  */
+
+}
+
+/* MARGIN   Espacio hacia afuera */
+
+/* Margin - se aplica a todos los lados por igual */
+/* Margin-Top - Separacion de la caja del resto del contenido de la pagina */
+/* Margin-Left - Separacion de la caja del a la izquierda resto del contenido de la pagina  */
+/* Margin-Right - Separacion de la caja del a la derecha resto del contenido de la pagina  */
+/* Margin-bottom - Separacion de la caja del lado de abajo sobre el resto del contenido de la pagina  */
+/*  Manera de abreviar todos los lados */
+/* por defecto se toma el primer valor el top y va en sentido a las agujas del reloj */
+/* margin: 5px 10px 12px 15px */
+
+/* PADING - Se aplica hacia adentro de la caja entre el contenido y el borde interior de la caja */
+
+/* BORDER - Son los bordes del contenedor */
+/* Border - Style --- Son los estilos */
+
+/* Los bordes tienen 3 valores
+    border: solid 3px red */
+/*          estilo grosor  color*/
+
+/* propuedad DISPLAY --- Convierte un elemento en bloque a en linea o viceversa*/ 
+
+h2{
+    background-color: blueviolet;
+    display: inline-block; 
+    
+}

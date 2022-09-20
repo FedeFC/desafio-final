@@ -1,0 +1,25 @@
+- se habilita el jueves
+- entra todos los temas vistos hasta hoy (no entra lo visto el jueves)
+- 7 dias desde que se habilita para entregar la primer pre-entrega.
+- Chequear las rubricas de calificacion.
+- Si la califiacion es baja, se puede re-entregar la pre entrega nuevamente
+
+
+Entrega:
+una carpeta que tenga el wirefrae
+una carpeta con todo lo del proyecto (Codigo)
+
+
+Pagina para traer iconos a la pagina:
+
+https://es.code-paper.com/whatever/examples-iconscout-cdn
+fontawesome
+traer el link, para pegar en el eather 
+y luego copiar el link del html
+
+ventaja: No hay problemas de resolucion con distintos tamaños
+--POSITION---
+
+modo hay algun position que tire un elemento para adelante o atras
+ 
+	z-index
